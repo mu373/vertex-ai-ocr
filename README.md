@@ -1,4 +1,4 @@
-## vertex-ai-ocr
+# vertex-ai-ocr
 
 A utility tool that uses Google Vertex AI's Gemini models to convert book images into structured Markdown format, with support for mathematical equations.
 
